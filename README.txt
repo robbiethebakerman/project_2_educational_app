@@ -13,7 +13,7 @@ Please note, the following setup steps are verified on MacOS - some commands may
     - In terminal / command line, enter "npm run build"
     - This is a process that must be left running - leave it running and open a new terminal window
 7 - Run express server...
-    - In terminal / command line, enter "npm run server:dev"
+    - In terminal / command line, enter "npm start"
     - This is a process that must be left running - leave it running and open a new terminal window
 8 - In your web browser, go to the address: "localhost:3000/"
 9 - You will now be running the web app in your browser!
